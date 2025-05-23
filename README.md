@@ -52,6 +52,3 @@ A simple **Rock-Paper-Scissors** game built using **JavaScript** for the browser
 - `playGame()` manages the game flow, loops over 5 rounds, and announces the final result.
 
 ---
-
-## 📸 Sample Output (in Console)
-
