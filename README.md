@@ -5,12 +5,6 @@ Players can select their choice via buttons, and the computer makes a random sel
 
 ---
 
-## 📸 Preview
-
-![screenshot](./screenshot.png) <!-- Optional: if you want to add a screenshot image of your UI -->
-
----
-
 ## 📌 Features
 
 - Interactive UI with 3 buttons for selecting Rock, Paper, or Scissors.
